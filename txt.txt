@@ -1,0 +1,79 @@
+Fitting 6 folds for each of 1 candidates, totalling 6 fits
+8/8 [==============================] - 11s 497ms/step
+[CV] END L2_score=0.04101629484574286, dropout_2d=0.14554514863546503, dropout_dense=0.46643399942391695, learning_rate=8.859287192002238e-06, optimizer=Nadam; total time=138.4min
+8/8 [==============================] - 12s 500ms/step
+[CV] END L2_score=0.04101629484574286, dropout_2d=0.14554514863546503, dropout_dense=0.46643399942391695, learning_rate=8.859287192002238e-06, optimizer=Nadam; total time=138.5min
+8/8 [==============================] - 6s 218ms/step
+[CV] END L2_score=0.04101629484574286, dropout_2d=0.14554514863546503, dropout_dense=0.46643399942391695, learning_rate=8.859287192002238e-06, optimizer=Nadam; total time=138.6min
+8/8 [==============================] - 3s 217ms/step
+8/8 [==============================] - 4s 214ms/step
+[CV] END L2_score=0.04101629484574286, dropout_2d=0.14554514863546503, dropout_dense=0.46643399942391695, learning_rate=8.859287192002238e-06, optimizer=Nadam; total time=138.6min
+[CV] END L2_score=0.04101629484574286, dropout_2d=0.14554514863546503, dropout_dense=0.46643399942391695, learning_rate=8.859287192002238e-06, optimizer=Nadam; total time=138.6min
+8/8 [==============================] - 1s 112ms/step
+[CV] END L2_score=0.04101629484574286, dropout_2d=0.14554514863546503, dropout_dense=0.46643399942391695, learning_rate=8.859287192002238e-06, optimizer=Nadam; total time=138.6min
+Fitting 6 folds for each of 1 candidates, totalling 6 fits
+8/8 [==============================] - 10s 401ms/step
+[CV] END L2_score=0.08374046167177292, dropout_2d=0.17666305547617245, dropout_dense=0.1517050549420875, learning_rate=0.0007139564472744652, optimizer=RMSprop; total time=123.3min
+8/8 [==============================] - 10s 432ms/step
+[CV] END L2_score=0.08374046167177292, dropout_2d=0.17666305547617245, dropout_dense=0.1517050549420875, learning_rate=0.0007139564472744652, optimizer=RMSprop; total time=123.3min
+8/8 [==============================] - 6s 293ms/step
+[CV] END L2_score=0.08374046167177292, dropout_2d=0.17666305547617245, dropout_dense=0.1517050549420875, learning_rate=0.0007139564472744652, optimizer=RMSprop; total time=123.4min
+8/8 [==============================] - 3s 227ms/step
+[CV] END L2_score=0.08374046167177292, dropout_2d=0.17666305547617245, dropout_dense=0.1517050549420875, learning_rate=0.0007139564472744652, optimizer=RMSprop; total time=123.5min
+8/8 [==============================] - 3s 139ms/step
+[CV] END L2_score=0.08374046167177292, dropout_2d=0.17666305547617245, dropout_dense=0.1517050549420875, learning_rate=0.0007139564472744652, optimizer=RMSprop; total time=123.5min
+8/8 [==============================] - 1s 105ms/step
+[CV] END L2_score=0.08374046167177292, dropout_2d=0.17666305547617245, dropout_dense=0.1517050549420875, learning_rate=0.0007139564472744652, optimizer=RMSprop; total time=123.5min
+Fitting 6 folds for each of 1 candidates, totalling 6 fits
+8/8 [==============================] - 13s 442ms/step
+[CV] END L2_score=0.04448880290499218, dropout_2d=0.18374450433387543, dropout_dense=0.05242957927635179, learning_rate=1.9952549899412126e-05, optimizer=Adagrad; total time=121.4min
+8/8 [==============================] - 7s 291ms/step
+[CV] END L2_score=0.04448880290499218, dropout_2d=0.18374450433387543, dropout_dense=0.05242957927635179, learning_rate=1.9952549899412126e-05, optimizer=Adagrad; total time=121.6min
+8/8 [==============================] - 5s 360ms/step
+8/8 [==============================] - 6s 359ms/step
+[CV] END L2_score=0.04448880290499218, dropout_2d=0.18374450433387543, dropout_dense=0.05242957927635179, learning_rate=1.9952549899412126e-05, optimizer=Adagrad; total time=121.6min
+[CV] END L2_score=0.04448880290499218, dropout_2d=0.18374450433387543, dropout_dense=0.05242957927635179, learning_rate=1.9952549899412126e-05, optimizer=Adagrad; total time=121.6min
+8/8 [==============================] - 2s 203ms/step
+[CV] END L2_score=0.04448880290499218, dropout_2d=0.18374450433387543, dropout_dense=0.05242957927635179, learning_rate=1.9952549899412126e-05, optimizer=Adagrad; total time=121.7min
+8/8 [==============================] - 1s 103ms/step
+[CV] END L2_score=0.04448880290499218, dropout_2d=0.18374450433387543, dropout_dense=0.05242957927635179, learning_rate=1.9952549899412126e-05, optimizer=Adagrad; total time=121.8min
+Fitting 6 folds for each of 1 candidates, totalling 6 fits
+8/8 [==============================] - 10s 574ms/step
+[CV] END L2_score=0.08124147487585277, dropout_2d=0.03437431227931214, dropout_dense=0.299023538756064, learning_rate=0.0002560320558522938, optimizer=Ftrl; total time=129.2min
+8/8 [==============================] - 9s 569ms/step
+[CV] END L2_score=0.08124147487585277, dropout_2d=0.03437431227931214, dropout_dense=0.299023538756064, learning_rate=0.0002560320558522938, optimizer=Ftrl; total time=129.2min
+8/8 [==============================] - 4s 256ms/step
+[CV] END L2_score=0.08124147487585277, dropout_2d=0.03437431227931214, dropout_dense=0.299023538756064, learning_rate=0.0002560320558522938, optimizer=Ftrl; total time=129.4min
+8/8 [==============================] - 4s 186ms/step
+[CV] END L2_score=0.08124147487585277, dropout_2d=0.03437431227931214, dropout_dense=0.299023538756064, learning_rate=0.0002560320558522938, optimizer=Ftrl; total time=129.4min
+8/8 [==============================] - 2s 214ms/step
+8/8 [==============================] - 2s 205ms/step
+[CV] END L2_score=0.08124147487585277, dropout_2d=0.03437431227931214, dropout_dense=0.299023538756064, learning_rate=0.0002560320558522938, optimizer=Ftrl; total time=129.4min
+[CV] END L2_score=0.08124147487585277, dropout_2d=0.03437431227931214, dropout_dense=0.299023538756064, learning_rate=0.0002560320558522938, optimizer=Ftrl; total time=129.4min
+Fitting 6 folds for each of 1 candidates, totalling 6 fits
+8/8 [==============================] - 11s 490ms/step
+[CV] END L2_score=0.07995734862630124, dropout_2d=0.08760583728818468, dropout_dense=0.26331011856384623, learning_rate=0.00014032653007413053, optimizer=RMSprop; total time=122.8min
+8/8 [==============================] - 5s 428ms/step
+5/8 [=================>............] - ETA: 1s[CV] END L2_score=0.07995734862630124, dropout_2d=0.08760583728818468, dropout_dense=0.26331011856384623, learning_rate=0.00014032653007413053, optimizer=RMSprop; total time=122.8min
+8/8 [==============================] - 5s 436ms/step
+[CV] END L2_score=0.07995734862630124, dropout_2d=0.08760583728818468, dropout_dense=0.26331011856384623, learning_rate=0.00014032653007413053, optimizer=RMSprop; total time=122.9min
+8/8 [==============================] - 6s 388ms/step
+[CV] END L2_score=0.07995734862630124, dropout_2d=0.08760583728818468, dropout_dense=0.26331011856384623, learning_rate=0.00014032653007413053, optimizer=RMSprop; total time=122.9min
+8/8 [==============================] - 2s 206ms/step
+[CV] END L2_score=0.07995734862630124, dropout_2d=0.08760583728818468, dropout_dense=0.26331011856384623, learning_rate=0.00014032653007413053, optimizer=RMSprop; total time=122.9min
+8/8 [==============================] - 1s 105ms/step
+[CV] END L2_score=0.07995734862630124, dropout_2d=0.08760583728818468, dropout_dense=0.26331011856384623, learning_rate=0.00014032653007413053, optimizer=RMSprop; total time=122.9min
+Fitting 6 folds for each of 1 candidates, totalling 6 fits
+8/8 [==============================] - 8s 378ms/step
+[CV] END L2_score=0.07340546151837699, dropout_2d=0.18787394752055436, dropout_dense=0.08180358931927513, learning_rate=3.6751568200852056e-06, optimizer=RMSprop; total time=122.7min
+8/8 [==============================] - 7s 442ms/step
+[CV] END L2_score=0.07340546151837699, dropout_2d=0.18787394752055436, dropout_dense=0.08180358931927513, learning_rate=3.6751568200852056e-06, optimizer=RMSprop; total time=122.8min
+8/8 [==============================] - 9s 413ms/step
+[CV] END L2_score=0.07340546151837699, dropout_2d=0.18787394752055436, dropout_dense=0.08180358931927513, learning_rate=3.6751568200852056e-06, optimizer=RMSprop; total time=122.8min
+8/8 [==============================] - 3s 227ms/step
+[CV] END L2_score=0.07340546151837699, dropout_2d=0.18787394752055436, dropout_dense=0.08180358931927513, learning_rate=3.6751568200852056e-06, optimizer=RMSprop; total time=122.9min
+8/8 [==============================] - 2s 235ms/step
+[CV] END L2_score=0.07340546151837699, dropout_2d=0.18787394752055436, dropout_dense=0.08180358931927513, learning_rate=3.6751568200852056e-06, optimizer=RMSprop; total time=122.9min
+8/8 [==============================] - 3s 208ms/step
+[CV] END L2_score=0.07340546151837699, dropout_2d=0.18787394752055436, dropout_dense=0.08180358931927513, learning_rate=3.6751568200852056e-06, optimizer=RMSprop; total time=122.9min
+Fitting 6 folds for each of 1 candidates, totalling 6 fits
